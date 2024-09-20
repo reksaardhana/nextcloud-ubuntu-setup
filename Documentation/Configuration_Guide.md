@@ -8,4 +8,6 @@ Pastikan file `nextcloud.conf` telah disalin ke `/etc/apache2/sites-available/` 
 ```bash
 sudo a2ensite nextcloud
 sudo systemctl reload apache2
-#Mengakses Nextcloud#
+# Mengakses Nextcloud
+```arduino
+http://your_server_ip/nextcloud
