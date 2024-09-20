@@ -7,7 +7,7 @@
 ## Langkah-langkah Instalasi
 1. Clone repository ini.
    ```bash
-   git clone https://github.com/username/nextcloud-ubuntu-setup.git
+   git clone https://github.com/reksaardhana/nextcloud-ubuntu-setup.git
    cd nextcloud-ubuntu-setup
 2. Jalankan skrip instalasi.
    ```bash
