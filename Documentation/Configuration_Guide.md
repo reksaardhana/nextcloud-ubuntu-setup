@@ -12,3 +12,5 @@ sudo systemctl reload apache2
 # Mengakses Nextcloud
 ```arduino
 http://your_server_ip/nextcloud
+```
+Ikuti langkah-langkah di antarmuka web untuk menyelesaikan konfigurasi.
